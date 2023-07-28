@@ -1,4 +1,4 @@
-# Welcome to your CDK TypeScript project
+# Welcome to cdk-cognito-oauth-authorizer TypeScript project
 
 This is a blank project for CDK development with TypeScript.
 
