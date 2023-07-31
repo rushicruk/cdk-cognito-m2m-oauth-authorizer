@@ -5,5 +5,5 @@ import { CdkCognitoOauthAuthorizerStack } from "../lib/cdk-cognito-oauth-authori
 
 const app = new cdk.App();
 new CdkCognitoOauthAuthorizerStack(app, "CdkCognitoOauthAuthorizerStack", {
-  env: { account: "438422980939", region: "eu-west-2" },
+  env: { account: "Account Number", region: "eu-west-2" },
 });
